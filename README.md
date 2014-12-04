@@ -2,6 +2,14 @@ Submitted to vistaprint programming-challenge by Lars Szuwalski
 ---------------------------------------------------------------------
 This is all released under the 3-clause BSD-license. See below.
 
+### About
+This was submitted to the Tech Challenge posted by Vista Print (http://lifeinvistaprint.com/technology/tech-challenge-2014/) and it won first prize!
+
+You should also checkout this entry posted by Daniel Hartmeier 
+http://www.benzedrine.cx/3D-ODRPP.html
+
+He also was so kind as to post reference input/output-sets that you could use to test this thing on. And I believe his solution even packs the boxes tighter (at least in some cases) .. lucky for me that wasn't the only criteria :-)
+
 ### Build:
 Use maven (http://maven.apache.org/) to build like:
 
