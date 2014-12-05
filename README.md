@@ -1,14 +1,14 @@
-Submitted to vistaprint programming-challenge by Lars Szuwalski
+Vista-pickpack (Tech Challenge entry by Lars Szuwalski)
 ---------------------------------------------------------------------
-This is all released under the 3-clause BSD-license. See below.
 
-### About
 This was submitted to the Tech Challenge posted by Vista Print (http://lifeinvistaprint.com/technology/tech-challenge-2014/) and it won first prize!
 
 You should also checkout this entry posted by Daniel Hartmeier 
 http://www.benzedrine.cx/3D-ODRPP.html
 
 He also was so kind as to post reference input/output-sets that you could use to test this thing on. And I believe his solution even packs the boxes tighter (at least in some cases) .. lucky for me that wasn't the only criteria :-)
+
+This is all released under the 3-clause BSD-license. See below.
 
 ### Build:
 Use maven (http://maven.apache.org/) to build like:
@@ -75,14 +75,14 @@ modification, are permitted provided that the following conditions are met:
   documentation and/or other materials provided with the distribution.
 
 
-- Neither the name of the <organization> nor the
+- Neither the name of the vista-pickpack nor the
   names of its contributors may be used to endorse or promote products
   derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
 ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL <COPYRIGHT HOLDER> BE LIABLE FOR ANY
+DISCLAIMED. IN NO EVENT SHALL LARS SZUWALSKI BE LIABLE FOR ANY
 DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
 (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
 LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
